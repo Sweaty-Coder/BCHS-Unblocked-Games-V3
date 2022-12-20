@@ -18,6 +18,15 @@ const gamesArr = [
     controls: [`W/I: Jump`, `E/O: Shoot`]
   },
   {
+    filter: ['clicker'],
+    link: `clicker-heroes`,
+    imgsrc: `clicker-heroes.jpg`,
+    name: `Clicker Heroes`,
+    developer: `Playsaurus`,
+    desc: `In Clicker Heroes, the player clicks on the enemy to damage and eventually kill it. 0nce killed, the enemy drops gold that can be used to upgrade and purchase characters. Purchased characters automatically damage the enemy, increasing the player's total damage per second.`,
+    controls: [`Click to Play`]
+  },
+  {
     filter: [`shoot`, `mp`, `fight`],
     link: `rooftop-snipers-2`,
     imgsrc: `rooftop-snipers-2.jpg`,
