@@ -27,6 +27,69 @@ const gamesArr = [
     controls: [`Click to Play`]
   },
   {
+    filter: ['shoot'],
+    link: `10-bullets`,
+    imgsrc: `10-bullets.png`,
+    name: `10 Bullets`,
+    developer: `Michel Gerard`,
+    desc: `In 10 Bullets, it's all about the right timing. Will you be patient enough to wait for the perfect spot? And trigger massive chain reactions that will blow the screen with massive explosions? You can play the sequel in 10 More Bullets.`,
+    controls: [`Click or spacebar to shoot.`]
+  },
+  {
+    filter: ['sport'],
+    link: `basket-and-ball`,
+    imgsrc: `basket-and-ball.png`,
+    name: `Basket and Ball`,
+    developer: `Sun Temple`,
+    desc: `In Basket & Ball you have to bounce the rebel ball into the jolliest of baskets while solving puzzles and gathering bonuses.`,
+    controls: [`WASD/Click to Play`]
+  },
+  {
+    filter: ['mp','shoot','fight'],
+    link: `gun-blood`,
+    imgsrc: `gun-blood.png`,
+    name: `Gun Blood`,
+    developer: `Wolf Games`,
+    desc: `Gun Blood pits your reflexes against nine computer opponents in western gunfight battles. Attempt to become the fastest cowboy gunslinger in this western shootout game. GunBlood pits your reflexes against nine computer opponents in one-on-one gun fights and includes four bonus rounds.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['shoot','fight'],
+    link: `apple-shooter`,
+    imgsrc: `apple-shooter.jpg`,
+    name: `Apple Shooter`,
+    developer: `Wolf Games`,
+    desc: `The game consists of multiple archery rounds. You're trying to shoot an apple off your friend's head. Every time you succeed, the distance increases. But be careful: if you shoot your friend, the game is over!`,
+    controls: [`Aim and shoot with your mouse.`]
+  },
+  {
+    filter: ['flash','mp','puzzle','plat'],
+    link: `achievement-unlocked-2`,
+    imgsrc: `achievement-unlocked-2.jpg`,
+    name: `Achievement Unlocked 2`,
+    developer: `jmtb02`,
+    desc: `Achievement Unlocked 2 is a platformer meta-game based on getting achievements, where you control a little blue elephant exploring the facility where it is mysteriously placed, trying to find an exit.`,
+    controls: [`Unknown`]
+  },
+  {
+    filter: ['sport','misc'],
+    link: `8-ball-pool`,
+    imgsrc: `8-ball-pool.png`,
+    name: `8 Ball Pool`,
+    developer: `Miniclip.com`,
+    desc: `Eight-ball is a discipline of pool played on a billiard table with six pockets, cue sticks, and sixteen billiard balls. The object balls include seven solid-colored balls numbered 1 through 7, seven striped balls numbered 9 through 15, and the black 8 ball.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['sport','misc'],
+    link: `99-balls-evo`,
+    imgsrc: `99-balls-evo.jpg`,
+    name: `99 Balls Evo`,
+    developer: `Agame`,
+    desc: `99 Balls Evo is a fun and addictive 99 Balls game. Players must shoot the white ball at the colorful orbs. The number displayed on each orb indicates how many times the player has to hit that orb to clear it away. In the course of the game, the player can collect extra bullets.`,
+    controls: [`Click to Play`]
+  },
+  {
     filter: [`shoot`, `mp`, `fight`],
     link: `rooftop-snipers-2`,
     imgsrc: `rooftop-snipers-2.jpg`,
