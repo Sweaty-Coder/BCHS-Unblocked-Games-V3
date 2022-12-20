@@ -72,6 +72,15 @@ const gamesArr = [
     controls: [`Unknown`]
   },
   {
+    filter: ['flash','mp','puzzle','plat'],
+    link: `achievement-unlocked-3`,
+    imgsrc: `achievement-unlocked-3.jpg`,
+    name: `Achievement Unlocked 3`,
+    developer: `jmtb02`,
+    desc: `Achievement Unlocked 3 is a platformer meta-game based on getting achievements, where you control a little blue elephant exploring the facility where it is mysteriously placed, trying to find an exit.`,
+    controls: [`Unknown`]
+  },
+  {
     filter: ['sport','misc'],
     link: `8-ball-pool`,
     imgsrc: `8-ball-pool.png`,
