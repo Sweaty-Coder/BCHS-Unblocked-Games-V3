@@ -63,6 +63,16 @@ const gamesArr = [
     controls: [`AD/QE/Arrow Keys: Control movement`]
   },
   {
+    filter: ['mp','fight'],
+    link: `12-mini-battles`,
+    imgsrc: `12-mini-battles.png`,
+    name: `12 Mini Battles`,
+    developer: `Shared Dreams (Mariano Maffia)`,
+    desc: `12 MiniBattles is a fun two players game in which you and a friend can play against each other on a variety of games. This physics style game has different game types that you can play at random including a soccer match and sniper warfare.`,
+    controls: [`Player 1 use A
+    Player 2 use L`]
+  },
+  {
     filter: [`mp`, `shoot`, `fight`],
     link: `getaway-shootout`,
     imgsrc: `getaway-shootout.jpg`,
